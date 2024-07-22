@@ -1,0 +1,77 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unleash the ultimate cinematic experience in your home with our state-of-the-art movi technology.",
+        "title": "Experience Cinema Like Never Before with Duwa"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Unleash the ultimate cinematic experience in your home with our state-of-the-art movi technology.",
+        "title": "Experience Cinema Like Never Before with Duwa"
+      }
+    },
+    {
+      "id": "FooterSocialLinksOnly"
+    },
+    {
+      "id": "FooterFourColumnWithCompanyMission"
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Unleash the ultimate cinematic experience in your home with our state-of-the-art movi technology.",
+        "title": "Experience Cinema Like Never Before with Duwa"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unleash the ultimate cinematic experience in your home with our state-of-the-art movi technology.",
+        "title": "Experience Cinema Like Never Before with Duwa"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unleash the ultimate cinematic experience in your home with our state-of-the-art movi technology.",
+        "title": "Experience Cinema Like Never Before with Duwa"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the ultimate cinematic experience in your home with our state-of-the-art movi technology.",
+        "title": "Experience Cinema Like Never Before with Duwa"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unleash the ultimate cinematic experience in your home with our state-of-the-art movi technology.",
+        "title": "Experience Cinema Like Never Before with Duwa"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unleash the ultimate cinematic experience in your home with our state-of-the-art movi technology.",
+        "title": "Experience Cinema Like Never Before with Duwa"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unleash the ultimate cinematic experience in your home with our state-of-the-art movi technology.",
+        "title": "Experience Cinema Like Never Before with Duwa"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Experience Cinema Like Never Before with Duwa",
+  "subtitle": "Unleash the ultimate cinematic experience in your home with our state-of-the-art movi technology."
+}
